@@ -9,4 +9,4 @@ Important Steps:
 5. Commit changes to version history 
 6. Review previous changes with git log 
 
-Making changes to Remote
+Making additional changes to Remote
