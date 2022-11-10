@@ -10,3 +10,5 @@ Important Steps:
 6. Review previous changes with git log 
 
 Making additional changes to Remote
+
+another change
